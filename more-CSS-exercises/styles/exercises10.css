@@ -1,0 +1,194 @@
+.outline1 {
+  border-style: solid;
+  border-width: 1px;
+  width: 340px;
+  height: 210px;
+}
+
+.horizontal-main {
+  padding-top: 9px;
+  padding-left: 9px;
+  padding-bottom: 9px;
+}
+p {
+  font-family: Roboto, arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.profile-pic {
+  width: 48px;
+  height: 48px;
+  border-radius: 24px;
+  object-fit: cover;
+}
+
+.vertical-sec {
+  display: inline-block;
+
+}
+
+.profile-info {
+  display: inline-block;
+  width: 200px;
+  margin-left: 6px;
+}
+
+.profile-name {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.profile-role {
+  font-size: 13px;
+  color: gray;
+  margin-top: 3px;
+}
+
+.profile-stats {
+  color: gray;
+  font-size: 12px;
+  margin-top: 3px;
+}
+
+.follow-button {
+  display: inline-block;
+  margin-top: 16px;
+  font-size: 13px;
+  background-color: rgb(94, 94, 251);
+  border-style: none;
+  color: white;
+  width: 55px;
+  height: 25px;
+  border-radius: 4px;
+  font-weight: 500;
+
+}
+
+.vertical-sec {
+  vertical-align: top;
+}
+
+.profile-info {
+  vertical-align: top;
+}
+
+.vertical-ter {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.pic {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.horizontal10c {
+  display: block;
+  width: 900px;
+  margin-top: 7px;
+}
+.exercises10c {
+  display: block;
+  margin-top: 50px;
+}
+
+.vertical10c {
+  display: inline-block;
+}
+
+.vertical10cII {
+  display: inline-block;
+  vertical-align: top;
+  width: 250px;
+  margin-left: 7px;
+}
+
+.video-title {
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 19px;
+}
+
+.channel {
+  font-size: 12.5px;
+  color: rgb(84, 82, 82);
+  margin-top: 9px;
+}
+
+.video-stats {
+  font-size: 12px;
+  color: rgb(84, 82, 82);
+  margin-top: 5px;
+}
+
+.exercises10d {
+  margin-top: 40px;
+  display: block;
+  width: 500px;
+  height: 200px;
+}
+
+.vertical10d {
+  display: inline-block;
+  border-style: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  margin-left: 7px;
+}
+
+.horizontal10d {
+  display: block;
+}
+
+.profile-picture, .profile-picture2 {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 0;
+}
+
+.profile-picture2 {
+  object-position: right;
+}
+
+.horizontal10d2 {
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+.first-name {
+  font-size: 11px;
+  font-weight: bold;
+  margin-top: 3px;
+}
+
+.inside2, .inside3 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.round-pic {
+  width: 15px;
+  height: 15px;
+  border-radius: 7.5px;
+  object-fit: cover;
+  margin-top: 3px;
+}
+
+.mutual-friends {
+  font-size: 10px;
+  color: rgb(79, 78, 78);
+  margin-left: 2px;
+}
+
+.add-friend {
+  color: white;
+  width: 68px;
+  height: 22px;
+  border-style: none;
+  border-radius: 2px;
+  font-size: 9px;
+  background-color: rgb(86, 31, 223);
+  margin-top: 3px;
+}

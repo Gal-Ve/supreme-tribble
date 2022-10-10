@@ -1,0 +1,222 @@
+.red-square {
+  background-color: red;
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+
+.green-circle {
+  background-color: green;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  display: block;
+  margin-top: 30px;
+}
+
+.feed-back {
+  width: 300px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(196, 196, 196);
+  margin-top: 40px;
+}
+
+.satisfied-service {
+  font-family: arial;
+  font-size: 13px;
+  padding-left: 11px;
+}
+
+.yes-button {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+      
+.youtube-music {
+  background-color: rgb(33, 33, 33);
+  width: 360px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 50px;
+}
+
+.install-youtube {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.add-youtube {
+  color: rgb(160, 160, 160);
+}
+
+.say-something {
+  margin-top: 40px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, .3);
+  padding: 9px;
+  width: 340px;
+  border-radius: 4px;
+}
+.roundpic {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+
+.what-happen {
+  border-style: none;
+  margin-left: 2px;
+  font-size: 13px;
+}
+
+.tweet-button {
+  background-color: rgb(88, 88, 252);
+  border-style: none;
+  color: white;
+  height: 24px;
+  width: 55px;
+  border-radius: 12px;
+  font-size: 12px;
+  margin-left: 66px;
+  transition: 0.15s;
+}
+
+.tweet-button:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.tweet-button:active {
+  background-color: white;
+  color: blue;
+}
+
+.friend-suggest {
+  margin-top: 40px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, .3);
+  width: 140px;
+  display: inline-block;
+  margin-left: 6px;
+}
+
+.michael {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+}
+
+.first-name {
+  font-weight: bold;
+  font-size: 12.5px;
+  margin-left: 6px;
+  margin-top: 5px;
+}
+
+.mutual-friends {
+  font-size: 10px;
+  margin-left: 6px;
+  margin-top: 5px;
+  color: rgb(104, 104, 104);
+}
+
+
+.add-friend {
+  background-color:rgb(69, 69, 245);
+  color: white;
+  border-style: none;
+  font-size: 9.5px;
+  margin-left: 6px;
+  border-radius: 2px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 7px;
+  margin-bottom: 6px;
+  transition: 0.15s;
+}
+
+.add-friend:hover {
+  cursor: pointer;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.add-friend:active {
+  background-color: white;
+  color: blue;
+}
+
+.dwight {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  object-position: right;
+}
+
+.jim {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+}
+
+.search-design-exercise {
+  margin-top: 40px;
+}
+
+.google-logo {
+  width: 180px;
+  margin-bottom: 0;
+  margin-left: 125px;
+}
+
+.search-bar {
+  height: 28px;
+  display: block;
+  width: 420px;
+  margin-top: 0;
+  border-style: none;
+  border-radius: 14px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+.google-search, .feeling-lucky {
+  font-size: 12px;
+  margin-top: 22px;
+  background-color: rgb(238, 236, 236);
+  border-style: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 14px;
+  padding-right: 14px;
+  transition: 0.15s;
+}
+
+.google-search {
+  margin-left: 80px;
+  margin-right: 6px;
+}
+
+.google-search, .feeling-lucky:hover {
+  cursor: pointer;
+}
+
+.google-search:active, .feeling-lucky:active {
+  background-color: gray;
+  color: white;
+}

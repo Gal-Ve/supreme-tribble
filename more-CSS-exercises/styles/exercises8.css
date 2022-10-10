@@ -1,0 +1,123 @@
+.fill-name {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.paragraph {
+  margin-top: 50px;
+}
+
+
+.paragraph-text {
+  width: 210px;
+}
+
+.paragraph-text, .button-yes, .button-no {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+.google-search {
+  margin-top:50px;
+  width: 300px;
+}
+.google-logo {
+  width: 180px;
+  margin-left: 100px;
+}
+
+.search-bar {
+  height: 28px;
+  width: 400px;
+  font-size: 11px;
+  border-radius: 14px;
+  border: none;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.sign-up {
+  height: 80px;
+  width: 500px;
+  margin-top: 50px;;
+}
+
+.first-name, .last-name, .email {
+  width: 100px;
+  height: 30px;
+  border-color: rgb(198, 196, 196);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: 12px;
+  padding-left: 12px;
+}
+
+.email {
+  display: block;
+  margin-top: 8px;
+  width: 220px;
+}
+
+.sign-button {
+  color: white;
+  font-weight: bold;
+  background-color: rgb(106, 0, 255);
+  width: 235px;
+  height: 35px;
+  border: none;
+  border-radius: 6px;
+  margin-top: 8px;
+  transition: 0.15s;
+}
+
+.sign-button:hover {
+  cursor: pointer;
+  box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.15);
+}
+
+.sign-button:active {
+  background-color: white;
+  color: rgb(106, 0, 255);
+}
+
+.request-ride-form {
+  margin-top: 80px;
+}
+
+.request-ride {
+  font-family: arial;
+  font-size: 26px;
+}
+.pickup-location, .enter-destination {
+  display: block;
+  height: 30px;
+  width: 245px;
+  padding-left: 13px;
+  font-size: 10px;
+  background-color: rgb(249, 240, 240);
+  border: none;
+}
+
+.enter-destination {
+  margin-top: 5px;
+}
+
+.request-now, .schedule-later {
+  margin-top: 22px;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 17px;
+  font-size: 10px;
+  border: none;
+}
+
+.request-now {
+  background-color: black;
+  color: white;
+}
+
+.schedule-later {
+  background-color: rgb(249, 240, 240);
+  margin-left: 9px;
+}
