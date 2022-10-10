@@ -1,0 +1,171 @@
+.back-button {
+  height: 39px;
+  width: 47px;
+}
+
+.back-button:hover {
+  cursor: pointer;
+}
+
+.page-one {
+  background: none;
+  border: none;
+  font-family: Times;
+  text-decoration: underline rgba(68, 52, 94, 0.892);
+  margin-left: 9px;
+  margin-right: 0;
+  font-size: 16px;
+}
+
+.page-two {
+  background: none;
+  border: none;
+  font-family: Times;
+  text-decoration: underline rgba(68, 52, 94, 0.892);
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 16px;
+}
+
+.page-three {
+  background: none;
+  border: none;
+  font-family: Times;
+  text-decoration: underline rgba(68, 52, 94, 0.892);
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 16px;
+}
+
+.page-four {
+  background: none;
+  border: none;
+  font-family: Times;
+  text-decoration: underline rgba(68, 52, 94, 0.892);
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 16px;
+}
+
+.page-five {
+  background: none;
+  border: none;
+  font-family: Times;
+  text-decoration: underline rgba(68, 52, 94, 0.892);
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 16px;
+}
+
+.next-button {
+  height: 39px;
+  width: 47px;
+  margin-left: 8px;
+}
+
+.next-button:hover {
+  cursor: pointer;
+}
+
+.shadow-button {
+  background-color: green;
+  margin-top: 50px;
+  color: white;
+  font-size: 18px;
+  font-family: Arial;
+  padding-left: 14px;
+  margin-left: 3px;
+  width: 65px;
+  padding-right: 14px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+  transition: 0.15s;
+}
+
+.shadow-button:hover {
+  cursor: pointer;
+}
+
+.shadow-button:active {
+  background-color: green;
+  margin-top: 53px;
+  color: white;
+  font-size: 18px;
+  font-family: Arial;
+  padding-left: 14px;
+  margin-left: 6px;
+  width: 65px;
+  padding-right: 14px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  box-shadow: 0 0 0;
+}
+
+.stretch-button {
+  background-color: green;
+  margin-top: 50px;
+  color: white;
+  font-size: 16px;
+  font-family: arial;
+  margin-left: 3px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 4px;
+  padding-right: 12px;
+  cursor: pointer;
+  transition: padding 0.15s;
+  width: 53px;
+  margin-bottom: 40px;
+}
+
+.stretch-button:hover {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 14px;
+  margin-right: 385px;
+}
+
+.stretch-button:active {
+  opacity: 0.5;
+}
+
+.button-two {
+  background-color: green;
+  font-family: arial;
+  color: white;
+  border: none;
+  margin-left: 5px;
+  margin-right: 0;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.button-stretch {
+  background-color: green;
+  font-size: 15px;
+  font-family: arial;
+  color: white;
+  border: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-right: 20px;
+  transition: padding 0.05s,
+    margin 0.05;
+  cursor: pointer;
+}
+
+.button-stretch:hover {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+

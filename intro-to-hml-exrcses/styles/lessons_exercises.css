@@ -1,0 +1,240 @@
+.tahoma-font {
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.course-text {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 50px
+}
+
+.beginner-text {
+  font-family: Verdana;
+  color: gray;
+  font-size: 15px;
+  margin-top: 2px;
+}
+
+.in-this {
+  font-family: verdana;
+  font-size: 15px;
+  margin-top: 10px;
+  width: 280px;
+  font-weight: 500;
+}
+
+.get-started {
+  background-color: rgb(1, 156, 1);
+  border: none;
+  border-radius: 5px;;
+  color: white;
+  margin-top: 13px;
+  font-size: 11px;
+  height: 26px;
+  width: 85px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.get-started:hover {
+  opacity: 0.8;
+  box-shadow: 5px 5px 9px rgba(0, 0, 0, 0.3);
+}
+
+.get-started:active {
+  background-color: white;
+  color: green;
+  transition: 0.15s;
+}
+
+.biggest-deals {
+  font-family: arial;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.sales-tuesday {
+  font-family: Arial;
+  font-style: italic;
+  color: rgb(204, 3, 23);
+  font-size: 15px;
+  margin-top: 5px;
+  font-weight: 400;
+}
+
+.shopping-business {
+  font-family: arial;
+  font-weight: bold;
+  margin-top: 50px;
+  font-size: 18px;
+}
+
+.see-apple {
+  font-family: arial;
+  font-size: 11px;
+  font-weight: 700;
+  margin-left: 30px;
+}
+
+.learn-more {
+  font-family: arial;
+  font-size: 10px;
+  color: blue;
+  margin-left: 83px;
+  margin-top: 16px;
+}
+
+.learn-more:hover {
+  cursor: pointer;
+}
+
+.learn-more:active {
+  opacity: 0.5;
+  transition: 0.15s;
+}
+
+.new-text {
+  margin-top: 50px;
+  font-family: arial;
+  font-size: 11px;
+  color: red;
+  font-weight: 550;
+  margin-left: 155px;
+}
+
+.macbook-pro {
+  font-family: arial;
+  font-weight: 600;
+  font-size: 17px;
+  margin-top: 6px;
+  margin-left: 113px;
+}
+
+.supercharged-pros {
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-left: 3px;
+}
+
+.from-1999 {
+  font-family: arial;
+  font-size: 11px;
+  margin-left: 137px;
+  margin-top: 7px;
+}
+
+.buy-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  height: 20px;
+  width: 37px;
+  border-radius: 10px;
+  font-size: 9px;
+  font-weight: 600;
+  margin-left: 148px;
+  margin-top: 10px;
+  transition: opacity 0.15s;
+  cursor: pointer;
+}
+
+.buy-button:hover {
+  opacity: 0.4;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.buy-button:active {
+  background-color: white;
+  color: blue;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  opacity: 10;
+  border-style: solid;
+  border-width: 0.5px;
+}
+
+.free-code {
+  margin-top: 50px;
+  font-family: arial;
+  font-size: 14px;
+}
+
+.free-code1 {
+  font-weight: bold;
+}
+
+.free-code2 {
+  color: rgb(114, 114, 114);
+}
+
+.navigate-around {
+  font-family: arial;
+  font-size: 14px;
+  margin-top: 6px
+}
+
+.here-outlines {
+  margin-top: 17px;
+  font-family: arial;
+  font-size: 14px;
+}
+
+.chp-it {
+  color: rgb(31, 106, 255);
+}
+
+.digits-usd {
+  font-family: arial;
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+.usd-text {
+  font-size: 15px;
+  color:rgb(114, 114, 114)
+}
+
+.percent-today {
+  font-family: arial;
+  font-size: 13px;
+  color: rgb(1, 156, 1);
+  margin-top: 3px;
+}
+
+.after-hours {
+  font-family: arial;
+  font-size: 13px;
+  color: gray;
+  margin-top: 6px
+}
+
+.red-text {
+  color: red;
+}
+
+.model-three {
+  font-family: montserrat;
+  font-weight: 600;
+  font-size: 30px;
+  margin-left: 95px;
+  margin-top: 40px;
+}
+
+.order-online {
+  font-family: montserrat;
+  font-size: 18px;
+}
+
+.touchless-delivery {
+  text-decoration: underline;
+}
